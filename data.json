@@ -1,0 +1,56 @@
+[
+  {
+    "id": 93,
+    "sale_id": 197,
+    "cliente": "Carmen González Ramírez Torres",
+    "fecha_del_mantenimiento": "28/11/2023",
+    "kilometraje_actual": 0,
+    "kilometraje_proximo_cambio": 2689,
+    "tienda_Atendido": "Tienda Principal",
+    "fecha_proximo_Mantenimiento": "26/05/2024",
+    "telefono": 953762322,
+    "placa": "ACR-987",
+    "marca_vehiculo": "Hyundai",
+    "modelo_vehiculo": "Elantra",
+    "tipo_vehiculo": "Automóviles",
+    "productos_comprados_en_el_mantenimiento": [
+      {
+        "name": "FILTRO 0B 10270986 B0 1027",
+        "unit_price": "50.00",
+        "quantity": 1
+      },
+      {
+        "name": "Boyl Boyl ATF Mineral - 20L",
+        "unit_price": "135.00",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "sale_id": 133,
+    "cliente": "Carmen González Ramírez Torres",
+    "fecha_del_mantenimiento": "23/05/2024",
+    "kilometraje_actual": 2713,
+    "kilometraje_proximo_cambio": 6713,
+    "tienda_Atendido": "Tienda Principal",
+    "fecha_proximo_Mantenimiento": "23/11/2024",
+    "telefono": 953762322,
+    "placa": "ACR-987",
+    "marca_vehiculo": "Hyundai",
+    "modelo_vehiculo": "Elantra",
+    "tipo_vehiculo": "Automóviles",
+    "productos_comprados_en_el_mantenimiento": [
+      {
+        "name": "FILTRO DB 07250986450725",
+        "unit_price": "25.00",
+        "quantity": 1
+      },
+      {
+        "name": "Boyl Boyl ATF Mineral - 20L",
+        "unit_price": "135.00",
+        "quantity": 1
+      }
+    ]
+  }
+]
